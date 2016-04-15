@@ -1,0 +1,7 @@
+
+# lib
+libs/
+
+# build
+build/empty/
+build/generated-sources/
